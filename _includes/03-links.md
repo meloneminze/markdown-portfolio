@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Octocat Creator] (https://myoctocat.com/build-your-octocat/)
