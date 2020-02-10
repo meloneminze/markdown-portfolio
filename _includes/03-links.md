@@ -1,1 +1,1 @@
-[Octocat Creator] (https://myoctocat.com/build-your-octocat/)
+[Octocat Creator](https://myoctocat.com/build-your-octocat/)
